@@ -1,5 +1,20 @@
 {
-  "sort_categories": [],
   "phone_wpp": true,
-  "socials": true
+  "socials": true,
+  "sort_categories": [
+    "kits-tia-sonia",
+    "granola-tia-sonia",
+    "snacks",
+    "integrais",
+    "cookies",
+    "funcionais",
+    "pastas-tia-sonia",
+    "barras",
+    "linha-gourmet",
+    "acucares",
+    "bebidas-em-po",
+    "naturais",
+    "produtos-parceiros",
+    "outros-produtos"
+  ]
 }

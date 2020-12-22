@@ -1,41 +1,118 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Tia Sônia - Faz bem mais feliz!",
+  "meta_description": "Alimentos Tia Sônia. Para um mundo com fome de viver, somos alimento pro corpo e pra alma. Faz bem mais feliz! ",
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 0,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "start": "2020-12-15T12:23:01.113Z",
+          "end": "2021-01-01T03:00:00.000Z",
+          "img": "/img/uploads/03-1920x500px-fim-de-ano-min.jpg",
+          "link": "https://www.emporiotiasonia.com.br/search",
+          "alt": "TiaSonia",
+          "mobile_img": "/img/uploads/02-1080x1080-px-fim-de-ano-min.jpg"
         },
         {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
+          "start": "2020-12-01T11:44:28.440Z",
+          "end": "",
+          "img": "/img/uploads/naturais.jpg",
+          "link": "https://www.emporiotiasonia.com.br/naturais",
+          "alt": "Naturais",
+          "mobile_img": "/img/uploads/naturais-mob.jpg"
+        },
+        {
+          "start": "2020-07-27T12:27:54.217Z",
+          "end": "",
+          "img": "/img/uploads/caju_-min.jpg",
+          "mobile_img": "/img/uploads/caju-min.jpg",
+          "link": "https://www.emporiotiasonia.com.br/castanha-de-caju",
+          "alt": "Kit-Caju"
+        },
+        {
+          "start": "2020-10-16T21:09:17.907Z",
+          "end": "",
+          "img": "/img/uploads/banner-ecommerce-cookies-03-min.jpg",
+          "mobile_img": "/img/uploads/card-cookies-20g-min.jpg",
+          "link": "https://www.emporiotiasonia.com.br/cookies",
+          "alt": "cookies"
+        },
+        {
+          "start": "2020-10-01T09:44:51.370Z",
+          "end": "",
+          "img": "/img/uploads/banner-pipocas-min.jpg",
+          "mobile_img": "/img/uploads/banner-pipoca-1080x1080px-min.jpg",
+          "link": "https://www.emporiotiasonia.com.br/pipocas-gourmet",
+          "alt": "Pipocas"
+        },
+        {
+          "start": "2020-12-18T13:06:04.279Z",
+          "end": "",
+          "img": "/img/uploads/banner_ecommerce_sou-min.jpg",
+          "mobile_img": "/img/uploads/soumais.jpg",
+          "link": "https://www.emporiotiasonia.com.br/sou-mais",
+          "alt": "Sou-Mais"
         }
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5f43fb1bf023684cdbdc7aee:collections:Novidades da Tia Sônia:/novidades-da-tia-sonia",
+      "title": "Novidades! 💙",
+      "sort": "sales"
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "limit": 12,
-      "page": 1
+      "shuffle": false,
+      "collection_id": "5fa09652b2161709fa47b105",
+      "sort": "sales"
     },
     {
-      "type": "page-title",
-      "title": "Loja demo da E-Com Plus",
-      "description": "Loja de demonstração e testes da plataforma E-Com Plus e Storefront. Todos os produtos, preços e informações são meramente ilustrativos."
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/13-banner-vtc-1280x600px_2_.webp",
+          "alt": "Vitoria-da-Conquista"
+        },
+        {
+          "img": "/img/uploads/ssa.jpg"
+        }
+      ]
+    },
+    {
+      "type": "responsive-banner",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSd0D_JwA36qSMeSArUjFZMWvjBpV3FuKQM5gpIQJwcNK8D9ig/viewform",
+      "alt": "parceiros",
+      "img": "/img/uploads/01-1920x500-parceiro-02-min.jpg"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": "5f9c2780b2161709fa46a603",
+      "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": "5dfb92855cdf932a9836d9ac",
+      "sort": "sales",
+      "title": "Faz bem + Feliz!"
+    },
+    {
+      "type": "custom-html",
+      "html": "<h1 style=\"\n    text-align: center;\n    color: #aaaa;\n\">Conheça a história da melhor Granola do Brasil!</h1>"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/tstorytiasonia.jpg",
+      "alt": "História de Tia Sônia",
+      "link": "http://www.tiasonia.com.br/pt-br/sobre"
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"ml-form-embed\"\n  data-account=\"1184030:r4h1t6y8d5\"\n  data-form=\"1703292:y6j4v6\">\n</div>\n"
     }
   ]
 }

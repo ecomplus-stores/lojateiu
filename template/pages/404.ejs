@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="<%= _.lang.replace('_', '-') %>" dir="ltr">
 
@@ -5,18 +6,17 @@
   <%- await include('@/head') %>
 </head>
 
-<body id="page-404">
+<body>
   <%- await include('@/layout/menu') %>
 
   <main role="main" id="main">
     <%- await include('@/layout/header') %>
 
-    <div class="container py-5">
-      <article id="fallback-404">
-        <span class="text-muted">
-          404 - Not found
-        </span>
-      </article>
+    <div class="container py-1 py-sm-2 py-lg-4 text-muted">
+      <p><b>Ops! Essa página mudou...</b></p>
+      Faça uma busca para encontrar o que deseja.
+      <hr>
+      
     </div>
 
     <%- await include('@/layout/footer') %>

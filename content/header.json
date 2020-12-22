@@ -1,26 +1,38 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Ganhe 💛 Cookie + Frete Grátis (a partir de R$ 99)",
+    "link": "",
+    "background": "#0a59a8",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "CONTATOS",
+        "link": "https://www.emporiotiasonia.com.br/pages/contato"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "ACOMPANHAR PEDIDO",
+        "link": "https://www.emporiotiasonia.com.br/acompanhar-pedido"
       }
     ],
-    "phone_wpp": true,
-    "socials": true
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
-    "full_width": false
+    "featured": [
+      "/kits-tia-sonias?Kits",
+      "/granola-tia-sonia?Granolas",
+      "/integral-col?Integral",
+      "/vegano-col?Vegano",
+      "/snacks?Snacks",
+      "/bebidas-em-po?Bebidas",
+      "/cookies?Cookies",
+      "/cafe-colheita-das-alegrias?Café Orgânico",
+      "/pipocas-sinta?Pipocas Sinta+"
+    ],
+    "random": 0,
+    "full_width": true
   },
   "search_input": true
 }

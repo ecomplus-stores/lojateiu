@@ -13,8 +13,7 @@
     },
     {
       "type": "collection-retail",
-      "enabled": true,
-      "sort": "sales"
+      "enabled": true
     },
     {
       "type": "document-description",

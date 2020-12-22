@@ -4,43 +4,154 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "list_pages": false,
+    "title": "Informações",
+    "list": [
+      {
+        "text": "Contato",
+        "url": "/pages/contato"
+      },
+      {
+        "text": "Acompanhar Pedido",
+        "url": "/acompanhar-pedido"
+      },
+      {
+        "text": "Cadastro Nutricionista",
+        "url": "https://www.emporiotiasonia.com.br/pages/cadastro-nutricionista"
+      },
+      {
+        "text": "Condições de entrega",
+        "url": "/pages/entrega"
+      },
+      {
+        "text": "Dúvidas frequentes",
+        "url": "/pages/faq"
+      },
+      {
+        "text": "Onde encontrar",
+        "url": "/pages/onde-encontrar"
+      },
+      {
+        "text": "Política de privacidade",
+        "url": "/pages/privacidade"
+      },
+      {
+        "text": "Termos de serviço",
+        "url": "/pages/termos"
+      },
+      {
+        "text": "Trocas e devoluções",
+        "url": "/pages/trocas"
+      },
+      {
+        "text": "Cadastro para Revenda",
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSd0D_JwA36qSMeSArUjFZMWvjBpV3FuKQM5gpIQJwcNK8D9ig/viewform"
+      },
+      {
+        "text": "Sobre nós",
+        "url": "/pages/sobre-nos"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
-    "title": "Categorias",
-    "list": []
+    "list_categories": false,
+    "title": "Granolas",
+    "list": [
+      {
+        "text": "Tradicional",
+        "url": "https://www.emporiotiasonia.com.br/tradicional"
+      },
+      {
+        "text": "Low Carb",
+        "url": "https://www.emporiotiasonia.com.br/low-carb"
+      },
+      {
+        "text": "Castanha do Pará",
+        "url": "https://www.emporiotiasonia.com.br/castanha-do-para"
+      },
+      {
+        "text": "Chocolate",
+        "url": "https://www.emporiotiasonia.com.br/chocolate"
+      },
+      {
+        "text": "Light",
+        "url": "https://www.emporiotiasonia.com.br/light"
+      },
+      {
+        "text": "Orgânica",
+        "url": "https://www.emporiotiasonia.com.br/organica"
+      },
+      {
+        "url": "https://www.emporiotiasonia.com.br/premium",
+        "text": "Premium"
+      },
+      {
+        "text": "Sem Glúten",
+        "url": "https://www.emporiotiasonia.com.br/sem-gluten"
+      },
+      {
+        "text": "X-Pin",
+        "url": "https://www.emporiotiasonia.com.br/x-pin"
+      },
+      {
+        "url": "https://www.emporiotiasonia.com.br/mix-gourmet",
+        "text": "Mix Gourmet"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
     "phone_wpp": true,
-    "socials": true,
+    "socials": false,
     "email": true,
-    "address": true
+    "address": false
   },
   "stamps": [
     {
-      "src": "/img/uploads/ssl-safe.png",
-      "alt": "Secure connection"
+      "src": "/img/uploads/organico-120-80.png",
+      "alt": "Produto Orgânico"
+    },
+    {
+      "src": "/img/uploads/vegano-120-80.png",
+      "alt": "Produto Vegano"
+    },
+    {
+      "src": "/img/uploads/eu-reciclo-120-80.png",
+      "link": "",
+      "alt": "Selo Tia Sônia Eureciclo"
+    },
+    {
+      "src": "/img/uploads/ibd-120-80.png",
+      "alt": "Certificado Orgânico IBD"
+    },
+    {
+      "src": "/img/uploads/usda-120-80.png",
+      "alt": "USDA Organic"
+    },
+    {
+      "src": "/img/uploads/seloablec-01.png",
+      "alt": "ablec"
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
     "banrisul": false,
     "elo": true,
-    "hipercard": false,
+    "hipercard": true,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
+    "paypal": false,
     "citibank": false,
+    "hiper": true,
+    "diners": false,
     "mais": false,
-    "itau": true
+    "amex": true,
+    "itau": false
   },
-  "credits": ""
+  "credits": "ALIMENTOS TIA SONIA LTDA - CNPJ: 08.385.685/0002-24 © Todos os direitos reservados"
 }
